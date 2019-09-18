@@ -1,0 +1,2 @@
+{"_nombre":"ezequiel","_apellido":"rodriguez","_legajo":"1004","_foto":".\/foto\/1004.jpg"}
+{"_nombre":"clemente","_apellido":"perez","_legajo":"1005","_foto":".\/foto\/1005.jpg"}
